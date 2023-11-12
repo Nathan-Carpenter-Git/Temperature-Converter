@@ -1,10 +1,10 @@
-# TemperatureConverter
+# Temperature Converter
 
 ## Author
 _Created by Nathan Carpenter_
 
 ## About
-TemperatureConverter is a console application written in C++.
+Temperature Converter is a console application written in C++.
 
 ## Prerequisites
 - Support only Windows operating systems. 
